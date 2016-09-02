@@ -11,8 +11,9 @@ public class Main {
 	}
 
 	private static void displayGreating() {
-		System.out.println("Hello HAPPY SALES PEOLPLE");
-		System.out.println("This App Ahows sales data");
+		System.out.println("Hello Happy Sales People");
+		System.out.println("This App Shows sales data");
+		System.out.println("-------------------------");
 		System.out.println("Test1");
 		System.out.println("Test2");
 	}
