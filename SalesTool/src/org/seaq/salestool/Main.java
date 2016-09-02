@@ -13,6 +13,7 @@ public class Main {
 	private static void displayGreating() {
 		System.out.println("Hello HAPPY SALES PEOLPLE");
 		System.out.println("This App Ahows sales data");
+		System.out.println("Test1");
 	}
 
 }
